@@ -47,7 +47,7 @@ npm run dev
 
 5. Open http://localhost:3000 with your browser to see the result.
 
-6. Project Checklist
+##  Project Checklist
 - [ ] Set up a Next.js project with Material UI components.
 - [ ] Implement a Firebase backend for data storage.
 - [ ] Create a form to add, delete, and update pantry items.
@@ -55,18 +55,21 @@ npm run dev
 - [ ] Create a presentable frontend design to display all pantry items.
 - [ ] Deploy to Vercel and use CI/CD.
 
-7. Roadmap
-### Version 1.1
+## Roadmap
+**Version 1.1**
 - Implement search and filter functionality.
 - Enhance form validation and error handling.
 - Improve UI/UX with more animations and better layout.
-### Version 1.2
+
+**Version 1.2**
 - Add user authentication with Firebase Authentication.
 - Implement role-based access control (e.g., admin, user).
-### Version 1.3
+
+**Version 1.3**
 - Integrate notifications for item updates and low stock alerts.
 - Add bulk import/export functionality for inventory items.
-### Version 2.0
+
+**Version 2.0**
 - Develop a mobile version of the application.
 - Implement advanced analytics and reporting features.
 - Integrate with external APIs for more features (e.g., price tracking).
